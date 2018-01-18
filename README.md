@@ -1,9 +1,9 @@
-## Biography
+# Biography
 Yongsen Ma is a Ph.D. candidate in the Computer Science Department at William & Mary. He holds an M.S. degree from Shanghai Jiao Tong University and a B.S. degree from Shandong University, both in Control Science and Engineering. He was a Research Assistant in the Mobile and Communications Group of Intel at Shanghai.
 
-## Publications
+# Publications
 
-### Papers
+## Papers
 
 Yongsen Ma, Gang Zhou, Shuangquan Wang, Hongyang Zhao, and Woosub Jung. SignFi: Sign Language Recognition using WiFi. ACM IMWUT (UbiComp '18). 2018. To appear
 
@@ -17,7 +17,7 @@ Yongsen Ma, Pengyuan Du, Xiaofeng Mao, and Chengnian Long. On-line and dynamic e
 
 Pengyuan Du, Lujin Luo, Yongsen Ma, and Chengnian Long. A dual-antenna based handover scheme for GSM-R network. IEEE WCSP 2012. PDF Slides
 
-### Patents
+## Patents
 Yongsen Ma, Rongzhen Yang, Peng Meng, Qinghua Li, and Huaning Niu. Wireless Device, Method and Computer Readable Media for Requesting and Sending Block Acknowledgement. WO2016049800. 2016. URL
 
 Yongsen Ma, Rongzhen Yang, Peng Meng, Qinghua Li, and Huaning Niu. Apparatus, Method and System of Multi-User Uplink Transmission. WO2016032607. 2016. URL
