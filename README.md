@@ -1,6 +1,8 @@
 # Biography
 Yongsen Ma is a Ph.D. candidate in the Computer Science Department at William & Mary. He holds an M.S. degree from Shanghai Jiao Tong University and a B.S. degree from Shandong University, both in Control Science and Engineering. He was a Research Assistant in the Mobile and Communications Group of Intel at Shanghai.
 
+---
+
 # Publications
 ## Papers
 >**Yongsen Ma**, Gang Zhou, Shuangquan Wang, Hongyang Zhao, and Woosub Jung. SignFi: Sign Language Recognition using WiFi. ACM IMWUT (UbiComp '18). 2018. To appear
@@ -25,6 +27,8 @@ Yongsen Ma is a Ph.D. candidate in the Computer Science Department at William & 
 >Rongzhen Yang, Po-Kai Huang, Hujun Yin, Robert J. Stacey, **Yongsen Ma**, and Peng Meng. Scheme of Finite Power Transmission Statuses for Low Cost Wireless Broadband Communication System. WO2016041166. 2016. URL
 
 >Rongzhen Yang, Po-Kai Huang, Hujun Yin, Robert J. Stacey, **Yongsen Ma**, and Peng Meng. Access Point Assisted Spatial Reuse. WO2015127777. 2015. URL
+
+---
 
 # Projects
 ## Sign Language Recognition using WiFi and Convolutional Neural Networks
